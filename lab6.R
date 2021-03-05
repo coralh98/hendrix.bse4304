@@ -95,3 +95,8 @@ slope_sum=summary(terrain(mydem, opt='slope',unit = "radians"))
 # We are building on our prior lab solutions, need to build out our previous 
 # TMWB model. We will grab functions from the solutions from Week 4’s Lab  
 # Lab05
+
+
+## Run In TERMINAL below
+#git config --global user.email "coralh98@vt.edu"
+#git config --global user.name "Coral Hendrix"
